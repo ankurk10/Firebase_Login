@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173172326190",
+    "project_id": "sig-soft-task",
+    "storage_bucket": "sig-soft-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173172326190:android:0fe07751faea27f9c244bf",
+        "android_client_info": {
+          "package_name": "com.example.task_9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173172326190-l0it72bi6q87gchm229i188nevmb02dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC22jXMEoIYj2z5gcCLONi0bNU3Z5spJ0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173172326190-l0it72bi6q87gchm229i188nevmb02dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
